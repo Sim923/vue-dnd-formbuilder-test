@@ -3,7 +3,7 @@
 > drag and drop form builder test
 
 # Demo
-https://audit-star.000webhostapp.com/index_.html
+https://audit-star.000webhostapp.com/index.html
 
 ## Build Setup
 
